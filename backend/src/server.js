@@ -37,6 +37,3 @@ connectDB().then(() => {
   });
 });
 
-
-
-//mongodb+srv://rushandayma_db_user:F1E0vSrVsXqRV48d@cluster0.accgkgd.mongodb.net/?appName=Cluster0
